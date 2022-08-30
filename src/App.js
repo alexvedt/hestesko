@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Godt <code>jobba alex</code> you did well
+          Godt <code>jobba alex</code>du klarte å redigere noe 
         </p>
         <a
           className="App-link"
@@ -22,4 +22,5 @@ function App() {
   );
 }
 
+)
 export default App;
